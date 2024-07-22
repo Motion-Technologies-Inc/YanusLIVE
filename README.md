@@ -1,4 +1,4 @@
-# YanusLIVE v1.0.0
+# YanusLIVE
 
 ## Description
 Yanus Live is a live streaming software based on innovative facial motion capture technology. The program can capture and adjust an actor's facial expressions in real-time and reflect that data directly into the live stream. (Using Yanus CAM and dedicated hardware provides much more stable operation.)
