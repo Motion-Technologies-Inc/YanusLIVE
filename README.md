@@ -11,20 +11,26 @@ You can also export data files compatible with the ARKit standard and use them a
 
 ## Installation
 Yanus_LIVE is currently distributed as a compressed file.
-Unzip the file and run Yanus_LIVE.exe. The path for unzipping should only be in English. 
+Unzip the file and run Yanus_LIVE_<version>.exe. The path for unzipping should only be in English. 
 Please avoid desktop, user path, or overly deep directories.
 
-
 ## Initial Setup
-The program uses setttings_gui.ini and settings_user.ini as configuration files.
-Upon the first launch, the necessary relative paths for the initial execution are automatically updated.
+When initially installing, it is recommended to separately download and install the demo videos and the demo character package files built in Unreal Engine or Unity
 
-If the installation folder location changes after the initial launch, or if the executable and configuration files are patched, modify the settings_gui.ini file by changing the last line to main_first_run=true and then run Yanus_LIVE.exe to reset the settings.
+Here are examples of the paths:
+D:/YanusSTUDIO/YanusLIVE/demo
+D:/YanusSTUDIO/YanusLIVE/package/Bora
+D:/YanusSTUDIO/YanusLIVE/YanusLIVE_v1.2.5
+
+# Demo Character Package
+After running YanusLIVE, you need to register the executable file path of the demo Character package in the Remote tab under File > Settings.
+
+For the first run of the demo character package, it might not be imported into YanusLIVE due to security permissions. Please close and restart the character mode. Additionally, if Unreal Engine is not installed on the PC, there is a process to install other necessary programs.
 
 ## Requirements
 We recommend PC specifications that can comfortably run Unreal Engine. 
-The development was carried out on a 13th generation i9 PC, 
-but the minimum specifications are still being confirmed.
+For stable performance at 60Hz in real-time, we recommend an Intel 13th generation i9 PC or higher.
+On lower-end PCs, it is optimized to output as many frames as possible with minimal delay according to the computer's performance.
 
 ## License Authorization
 To fully activate YanusLIVE, follow these steps:
