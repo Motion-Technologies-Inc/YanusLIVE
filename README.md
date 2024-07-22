@@ -22,7 +22,7 @@ D:/YanusSTUDIO/YanusLIVE/demo
 D:/YanusSTUDIO/YanusLIVE/package/Bora
 D:/YanusSTUDIO/YanusLIVE/YanusLIVE_v1.2.5
 
-# Demo Character Package
+### Demo Character Package
 After running YanusLIVE, you need to register the executable file path of the demo Character package in the Remote tab under File > Settings.
 
 For the first run of the demo character package, it might not be imported into YanusLIVE due to security permissions. Please close and restart the character mode. Additionally, if Unreal Engine is not installed on the PC, there is a process to install other necessary programs.
