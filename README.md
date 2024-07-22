@@ -17,10 +17,10 @@ Please avoid desktop, user path, or overly deep directories.
 ## Initial Setup
 When initially installing, it is recommended to separately download and install the demo videos and the demo character package files built in Unreal Engine or Unity
 
-Here are examples of the paths:
-D:/YanusSTUDIO/YanusLIVE/demo
-D:/YanusSTUDIO/YanusLIVE/package/Bora
-D:/YanusSTUDIO/YanusLIVE/YanusLIVE_v1.2.5
+Here are examples of the paths:  
+D:/YanusSTUDIO/YanusLIVE/demo  
+D:/YanusSTUDIO/YanusLIVE/package/Bora  
+D:/YanusSTUDIO/YanusLIVE/YanusLIVE_v1.2.5  
 
 ### Demo Character Package
 After running YanusLIVE, you need to register the executable file path of the demo Character package in the Remote tab under File > Settings.
